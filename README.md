@@ -1,0 +1,1 @@
+a nextjs app that plays with Keycloak and the auth code flow to get tokens
